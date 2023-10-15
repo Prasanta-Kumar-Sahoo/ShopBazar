@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# ShopBazar
-A Ecommerce WebApp.
-=======
-<<<<<<< HEAD
+
 <<<<<<< HEAD
 # ShopBazar
 A Ecommerce WebApp.
